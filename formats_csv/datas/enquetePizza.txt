@@ -1,0 +1,8 @@
+nom,prenom,pizza préférée,consommation mensuelle
+Nicaise,Martine,Reine,3
+Bombeur,Jean,4 fromages,5
+Dissoir,Alain,Napolitaine,2
+Cive,Jean,Calzone,12
+Deuf,John,Vezuvio,8
+Fassol,Rémi,fruits de mer,6
+Niole,Guy,spéciale,15
